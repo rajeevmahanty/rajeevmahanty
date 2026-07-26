@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Rajeev Mahanty
+# Hi 👋, I'm Rajeev Mahanty
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Senior+Quality+Analyst;Learning+AWS+%26+DevOps;AWS+%7C+Docker+%7C+Kubernetes;Sketch+Artist;Content+Creator;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=00BFFF&center=true&vCenter=true&width=800&lines=Senior+Quality+Analyst;Learning+AWS+%26+DevOps;AWS+%7C+Docker+%7C+Kubernetes;Sketch+Artist;Content+Creator;Always+Learning+New+Things!" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=rajeevmahanty&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -13,15 +15,15 @@
 - 💼 Senior Quality Analyst
 - ☁️ Learning AWS & DevOps
 - 🐳 Exploring Docker & Kubernetes
-- ⚙️ Interested in CI/CD and Terraform
+- ☸️ Learning Kubernetes & Terraform
+- ⚙️ Interested in CI/CD
 - 🎨 Sketch Artist
 - 🎥 Content Creator
-- 🇦🇺 Preparing for Australian PR
-- 📚 Always learning something new
+- 🌱 Always learning new technologies
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,github,linux,python,nodejs,vscode,mongodb,mysql,java,html,css,javascript" />
@@ -44,9 +46,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajeevmahanty&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeevmahanty&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevmahanty&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevmahanty&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </p>
 
@@ -56,7 +58,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevmahanty&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=rajeevmahanty&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -66,9 +68,9 @@
 
 - 🌐 Rajeev Portfolio
 - ☁️ AWS Hands-on Labs
-- ⚙️ DevOps Learning
 - 🐳 Docker Practice
 - ☸️ Kubernetes Practice
+- ⚙️ DevOps Learning
 
 ---
 
@@ -92,20 +94,10 @@
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rajeevmahanty&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-⭐ If you like my work, feel free to follow me and check out my repositories.
+If you like my work, don't forget to ⭐ my repositories.
 
 </div>
